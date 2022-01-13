@@ -1,0 +1,5 @@
+require("../auth/index")
+require("../database/index")
+require("../config/index")
+require("../routes/index")
+require("../server/index")
